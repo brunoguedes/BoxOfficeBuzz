@@ -1,0 +1,9 @@
+## Build generated
+build/
+DerivedData/
+rag
+BoxOfficeBuzz.xcodeproj/xcuserdata
+BoxOfficeBuzz.xcodeproj/project.xcworkspace/xcuserdata
+BoxOfficeBuzz.xcodeproj/project.xcworkspace/xcshareddata
+BoxOfficeBuzz.xcworkspace/xcuserdata
+BoxOfficeBuzz.xcworkspace/xcshareddata
